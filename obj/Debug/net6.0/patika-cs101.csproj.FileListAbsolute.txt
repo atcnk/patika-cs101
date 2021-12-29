@@ -1,0 +1,15 @@
+C:\Users\ataca\Desktop\Genel\patika-cs101\bin\Debug\net6.0\patika-cs101.exe
+C:\Users\ataca\Desktop\Genel\patika-cs101\bin\Debug\net6.0\patika-cs101.deps.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\bin\Debug\net6.0\patika-cs101.runtimeconfig.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\bin\Debug\net6.0\patika-cs101.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\bin\Debug\net6.0\ref\patika-cs101.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\bin\Debug\net6.0\patika-cs101.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\obj\Debug\net6.0\patika-cs101.csproj.AssemblyReference.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\obj\Debug\net6.0\patika-cs101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ataca\Desktop\Genel\patika-cs101\obj\Debug\net6.0\patika-cs101.AssemblyInfoInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\obj\Debug\net6.0\patika-cs101.AssemblyInfo.cs
+C:\Users\ataca\Desktop\Genel\patika-cs101\obj\Debug\net6.0\patika-cs101.csproj.CoreCompileInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\obj\Debug\net6.0\patika-cs101.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\obj\Debug\net6.0\ref\patika-cs101.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\obj\Debug\net6.0\patika-cs101.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\obj\Debug\net6.0\patika-cs101.genruntimeconfig.cache

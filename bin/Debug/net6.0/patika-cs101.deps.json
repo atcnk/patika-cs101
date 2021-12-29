@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "patika-cs101/1.0.0": {
+        "runtime": {
+          "patika-cs101.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "patika-cs101/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
