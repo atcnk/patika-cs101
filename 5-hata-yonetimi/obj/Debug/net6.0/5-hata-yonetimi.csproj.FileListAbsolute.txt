@@ -1,0 +1,15 @@
+C:\Users\ataca\Desktop\Genel\patika-cs101\5-hata-yonetimi\bin\Debug\net6.0\5-hata-yonetimi.exe
+C:\Users\ataca\Desktop\Genel\patika-cs101\5-hata-yonetimi\bin\Debug\net6.0\5-hata-yonetimi.deps.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\5-hata-yonetimi\bin\Debug\net6.0\5-hata-yonetimi.runtimeconfig.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\5-hata-yonetimi\bin\Debug\net6.0\5-hata-yonetimi.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\5-hata-yonetimi\bin\Debug\net6.0\ref\5-hata-yonetimi.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\5-hata-yonetimi\bin\Debug\net6.0\5-hata-yonetimi.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\5-hata-yonetimi\obj\Debug\net6.0\5-hata-yonetimi.csproj.AssemblyReference.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\5-hata-yonetimi\obj\Debug\net6.0\5-hata-yonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ataca\Desktop\Genel\patika-cs101\5-hata-yonetimi\obj\Debug\net6.0\5-hata-yonetimi.AssemblyInfoInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\5-hata-yonetimi\obj\Debug\net6.0\5-hata-yonetimi.AssemblyInfo.cs
+C:\Users\ataca\Desktop\Genel\patika-cs101\5-hata-yonetimi\obj\Debug\net6.0\5-hata-yonetimi.csproj.CoreCompileInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\5-hata-yonetimi\obj\Debug\net6.0\5-hata-yonetimi.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\5-hata-yonetimi\obj\Debug\net6.0\ref\5-hata-yonetimi.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\5-hata-yonetimi\obj\Debug\net6.0\5-hata-yonetimi.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\5-hata-yonetimi\obj\Debug\net6.0\5-hata-yonetimi.genruntimeconfig.cache
