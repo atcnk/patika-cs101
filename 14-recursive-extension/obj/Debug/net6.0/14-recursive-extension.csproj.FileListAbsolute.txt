@@ -1,0 +1,15 @@
+C:\Users\ataca\Desktop\Genel\patika-cs101\14-recursive-extension\bin\Debug\net6.0\14-recursive-extension.exe
+C:\Users\ataca\Desktop\Genel\patika-cs101\14-recursive-extension\bin\Debug\net6.0\14-recursive-extension.deps.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\14-recursive-extension\bin\Debug\net6.0\14-recursive-extension.runtimeconfig.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\14-recursive-extension\bin\Debug\net6.0\14-recursive-extension.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\14-recursive-extension\bin\Debug\net6.0\ref\14-recursive-extension.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\14-recursive-extension\bin\Debug\net6.0\14-recursive-extension.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\14-recursive-extension\obj\Debug\net6.0\14-recursive-extension.csproj.AssemblyReference.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\14-recursive-extension\obj\Debug\net6.0\14-recursive-extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ataca\Desktop\Genel\patika-cs101\14-recursive-extension\obj\Debug\net6.0\14-recursive-extension.AssemblyInfoInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\14-recursive-extension\obj\Debug\net6.0\14-recursive-extension.AssemblyInfo.cs
+C:\Users\ataca\Desktop\Genel\patika-cs101\14-recursive-extension\obj\Debug\net6.0\14-recursive-extension.csproj.CoreCompileInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\14-recursive-extension\obj\Debug\net6.0\14-recursive-extension.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\14-recursive-extension\obj\Debug\net6.0\ref\14-recursive-extension.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\14-recursive-extension\obj\Debug\net6.0\14-recursive-extension.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\14-recursive-extension\obj\Debug\net6.0\14-recursive-extension.genruntimeconfig.cache
