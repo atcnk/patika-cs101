@@ -1,0 +1,15 @@
+C:\Users\ataca\Desktop\Genel\patika-cs101\11-array-methodlari\bin\Debug\net6.0\11-array-methodlari.exe
+C:\Users\ataca\Desktop\Genel\patika-cs101\11-array-methodlari\bin\Debug\net6.0\11-array-methodlari.deps.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\11-array-methodlari\bin\Debug\net6.0\11-array-methodlari.runtimeconfig.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\11-array-methodlari\bin\Debug\net6.0\11-array-methodlari.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\11-array-methodlari\bin\Debug\net6.0\ref\11-array-methodlari.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\11-array-methodlari\bin\Debug\net6.0\11-array-methodlari.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\11-array-methodlari\obj\Debug\net6.0\11-array-methodlari.csproj.AssemblyReference.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\11-array-methodlari\obj\Debug\net6.0\11-array-methodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ataca\Desktop\Genel\patika-cs101\11-array-methodlari\obj\Debug\net6.0\11-array-methodlari.AssemblyInfoInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\11-array-methodlari\obj\Debug\net6.0\11-array-methodlari.AssemblyInfo.cs
+C:\Users\ataca\Desktop\Genel\patika-cs101\11-array-methodlari\obj\Debug\net6.0\11-array-methodlari.csproj.CoreCompileInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\11-array-methodlari\obj\Debug\net6.0\11-array-methodlari.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\11-array-methodlari\obj\Debug\net6.0\ref\11-array-methodlari.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\11-array-methodlari\obj\Debug\net6.0\11-array-methodlari.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\11-array-methodlari\obj\Debug\net6.0\11-array-methodlari.genruntimeconfig.cache
