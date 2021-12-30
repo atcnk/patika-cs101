@@ -1,0 +1,15 @@
+C:\Users\ataca\Desktop\Genel\patika-cs101\3-operatorler\bin\Debug\net6.0\3-operatorler.exe
+C:\Users\ataca\Desktop\Genel\patika-cs101\3-operatorler\bin\Debug\net6.0\3-operatorler.deps.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\3-operatorler\bin\Debug\net6.0\3-operatorler.runtimeconfig.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\3-operatorler\bin\Debug\net6.0\3-operatorler.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\3-operatorler\bin\Debug\net6.0\ref\3-operatorler.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\3-operatorler\bin\Debug\net6.0\3-operatorler.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\3-operatorler\obj\Debug\net6.0\3-operatorler.csproj.AssemblyReference.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\3-operatorler\obj\Debug\net6.0\3-operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ataca\Desktop\Genel\patika-cs101\3-operatorler\obj\Debug\net6.0\3-operatorler.AssemblyInfoInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\3-operatorler\obj\Debug\net6.0\3-operatorler.AssemblyInfo.cs
+C:\Users\ataca\Desktop\Genel\patika-cs101\3-operatorler\obj\Debug\net6.0\3-operatorler.csproj.CoreCompileInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\3-operatorler\obj\Debug\net6.0\3-operatorler.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\3-operatorler\obj\Debug\net6.0\ref\3-operatorler.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\3-operatorler\obj\Debug\net6.0\3-operatorler.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\3-operatorler\obj\Debug\net6.0\3-operatorler.genruntimeconfig.cache
