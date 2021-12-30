@@ -1,0 +1,15 @@
+C:\Users\ataca\Desktop\Genel\patika-cs101\12-metot-tanimlama\bin\Debug\net6.0\12-metot-tanimlama.exe
+C:\Users\ataca\Desktop\Genel\patika-cs101\12-metot-tanimlama\bin\Debug\net6.0\12-metot-tanimlama.deps.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\12-metot-tanimlama\bin\Debug\net6.0\12-metot-tanimlama.runtimeconfig.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\12-metot-tanimlama\bin\Debug\net6.0\12-metot-tanimlama.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\12-metot-tanimlama\bin\Debug\net6.0\ref\12-metot-tanimlama.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\12-metot-tanimlama\bin\Debug\net6.0\12-metot-tanimlama.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\12-metot-tanimlama\obj\Debug\net6.0\12-metot-tanimlama.csproj.AssemblyReference.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\12-metot-tanimlama\obj\Debug\net6.0\12-metot-tanimlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ataca\Desktop\Genel\patika-cs101\12-metot-tanimlama\obj\Debug\net6.0\12-metot-tanimlama.AssemblyInfoInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\12-metot-tanimlama\obj\Debug\net6.0\12-metot-tanimlama.AssemblyInfo.cs
+C:\Users\ataca\Desktop\Genel\patika-cs101\12-metot-tanimlama\obj\Debug\net6.0\12-metot-tanimlama.csproj.CoreCompileInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\12-metot-tanimlama\obj\Debug\net6.0\12-metot-tanimlama.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\12-metot-tanimlama\obj\Debug\net6.0\ref\12-metot-tanimlama.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\12-metot-tanimlama\obj\Debug\net6.0\12-metot-tanimlama.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\12-metot-tanimlama\obj\Debug\net6.0\12-metot-tanimlama.genruntimeconfig.cache
