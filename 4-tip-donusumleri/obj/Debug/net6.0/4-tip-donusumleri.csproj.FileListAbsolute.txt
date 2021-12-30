@@ -1,0 +1,15 @@
+C:\Users\ataca\Desktop\Genel\patika-cs101\4-tip-donusumleri\bin\Debug\net6.0\4-tip-donusumleri.exe
+C:\Users\ataca\Desktop\Genel\patika-cs101\4-tip-donusumleri\bin\Debug\net6.0\4-tip-donusumleri.deps.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\4-tip-donusumleri\bin\Debug\net6.0\4-tip-donusumleri.runtimeconfig.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\4-tip-donusumleri\bin\Debug\net6.0\4-tip-donusumleri.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\4-tip-donusumleri\bin\Debug\net6.0\ref\4-tip-donusumleri.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\4-tip-donusumleri\bin\Debug\net6.0\4-tip-donusumleri.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\4-tip-donusumleri\obj\Debug\net6.0\4-tip-donusumleri.csproj.AssemblyReference.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\4-tip-donusumleri\obj\Debug\net6.0\4-tip-donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ataca\Desktop\Genel\patika-cs101\4-tip-donusumleri\obj\Debug\net6.0\4-tip-donusumleri.AssemblyInfoInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\4-tip-donusumleri\obj\Debug\net6.0\4-tip-donusumleri.AssemblyInfo.cs
+C:\Users\ataca\Desktop\Genel\patika-cs101\4-tip-donusumleri\obj\Debug\net6.0\4-tip-donusumleri.csproj.CoreCompileInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\4-tip-donusumleri\obj\Debug\net6.0\4-tip-donusumleri.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\4-tip-donusumleri\obj\Debug\net6.0\ref\4-tip-donusumleri.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\4-tip-donusumleri\obj\Debug\net6.0\4-tip-donusumleri.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\4-tip-donusumleri\obj\Debug\net6.0\4-tip-donusumleri.genruntimeconfig.cache
