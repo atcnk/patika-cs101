@@ -1,0 +1,15 @@
+C:\Users\ataca\Desktop\Genel\patika-cs101\7-switch-case\bin\Debug\net6.0\7-switch-case.exe
+C:\Users\ataca\Desktop\Genel\patika-cs101\7-switch-case\bin\Debug\net6.0\7-switch-case.deps.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\7-switch-case\bin\Debug\net6.0\7-switch-case.runtimeconfig.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\7-switch-case\bin\Debug\net6.0\7-switch-case.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\7-switch-case\bin\Debug\net6.0\ref\7-switch-case.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\7-switch-case\bin\Debug\net6.0\7-switch-case.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\7-switch-case\obj\Debug\net6.0\7-switch-case.csproj.AssemblyReference.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\7-switch-case\obj\Debug\net6.0\7-switch-case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ataca\Desktop\Genel\patika-cs101\7-switch-case\obj\Debug\net6.0\7-switch-case.AssemblyInfoInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\7-switch-case\obj\Debug\net6.0\7-switch-case.AssemblyInfo.cs
+C:\Users\ataca\Desktop\Genel\patika-cs101\7-switch-case\obj\Debug\net6.0\7-switch-case.csproj.CoreCompileInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\7-switch-case\obj\Debug\net6.0\7-switch-case.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\7-switch-case\obj\Debug\net6.0\ref\7-switch-case.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\7-switch-case\obj\Debug\net6.0\7-switch-case.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\7-switch-case\obj\Debug\net6.0\7-switch-case.genruntimeconfig.cache
