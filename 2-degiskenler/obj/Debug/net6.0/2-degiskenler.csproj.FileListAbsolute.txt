@@ -1,0 +1,15 @@
+C:\Users\ataca\Desktop\Genel\patika-cs101\2-degiskenler\bin\Debug\net6.0\2-degiskenler.exe
+C:\Users\ataca\Desktop\Genel\patika-cs101\2-degiskenler\bin\Debug\net6.0\2-degiskenler.deps.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\2-degiskenler\bin\Debug\net6.0\2-degiskenler.runtimeconfig.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\2-degiskenler\bin\Debug\net6.0\2-degiskenler.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\2-degiskenler\bin\Debug\net6.0\ref\2-degiskenler.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\2-degiskenler\bin\Debug\net6.0\2-degiskenler.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\2-degiskenler\obj\Debug\net6.0\2-degiskenler.csproj.AssemblyReference.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\2-degiskenler\obj\Debug\net6.0\2-degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ataca\Desktop\Genel\patika-cs101\2-degiskenler\obj\Debug\net6.0\2-degiskenler.AssemblyInfoInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\2-degiskenler\obj\Debug\net6.0\2-degiskenler.AssemblyInfo.cs
+C:\Users\ataca\Desktop\Genel\patika-cs101\2-degiskenler\obj\Debug\net6.0\2-degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\2-degiskenler\obj\Debug\net6.0\2-degiskenler.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\2-degiskenler\obj\Debug\net6.0\ref\2-degiskenler.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\2-degiskenler\obj\Debug\net6.0\2-degiskenler.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\2-degiskenler\obj\Debug\net6.0\2-degiskenler.genruntimeconfig.cache
