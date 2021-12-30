@@ -1,0 +1,15 @@
+C:\Users\ataca\Desktop\Genel\patika-cs101\10-diziler\bin\Debug\net6.0\10-diziler.exe
+C:\Users\ataca\Desktop\Genel\patika-cs101\10-diziler\bin\Debug\net6.0\10-diziler.deps.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\10-diziler\bin\Debug\net6.0\10-diziler.runtimeconfig.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\10-diziler\bin\Debug\net6.0\10-diziler.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\10-diziler\bin\Debug\net6.0\ref\10-diziler.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\10-diziler\bin\Debug\net6.0\10-diziler.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\10-diziler\obj\Debug\net6.0\10-diziler.csproj.AssemblyReference.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\10-diziler\obj\Debug\net6.0\10-diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ataca\Desktop\Genel\patika-cs101\10-diziler\obj\Debug\net6.0\10-diziler.AssemblyInfoInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\10-diziler\obj\Debug\net6.0\10-diziler.AssemblyInfo.cs
+C:\Users\ataca\Desktop\Genel\patika-cs101\10-diziler\obj\Debug\net6.0\10-diziler.csproj.CoreCompileInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\10-diziler\obj\Debug\net6.0\10-diziler.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\10-diziler\obj\Debug\net6.0\ref\10-diziler.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\10-diziler\obj\Debug\net6.0\10-diziler.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\10-diziler\obj\Debug\net6.0\10-diziler.genruntimeconfig.cache
