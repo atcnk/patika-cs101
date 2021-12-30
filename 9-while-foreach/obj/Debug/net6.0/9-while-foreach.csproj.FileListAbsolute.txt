@@ -1,0 +1,15 @@
+C:\Users\ataca\Desktop\Genel\patika-cs101\9-while-foreach\bin\Debug\net6.0\9-while-foreach.exe
+C:\Users\ataca\Desktop\Genel\patika-cs101\9-while-foreach\bin\Debug\net6.0\9-while-foreach.deps.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\9-while-foreach\bin\Debug\net6.0\9-while-foreach.runtimeconfig.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\9-while-foreach\bin\Debug\net6.0\9-while-foreach.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\9-while-foreach\bin\Debug\net6.0\ref\9-while-foreach.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\9-while-foreach\bin\Debug\net6.0\9-while-foreach.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\9-while-foreach\obj\Debug\net6.0\9-while-foreach.csproj.AssemblyReference.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\9-while-foreach\obj\Debug\net6.0\9-while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ataca\Desktop\Genel\patika-cs101\9-while-foreach\obj\Debug\net6.0\9-while-foreach.AssemblyInfoInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\9-while-foreach\obj\Debug\net6.0\9-while-foreach.AssemblyInfo.cs
+C:\Users\ataca\Desktop\Genel\patika-cs101\9-while-foreach\obj\Debug\net6.0\9-while-foreach.csproj.CoreCompileInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\9-while-foreach\obj\Debug\net6.0\9-while-foreach.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\9-while-foreach\obj\Debug\net6.0\ref\9-while-foreach.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\9-while-foreach\obj\Debug\net6.0\9-while-foreach.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\9-while-foreach\obj\Debug\net6.0\9-while-foreach.genruntimeconfig.cache
