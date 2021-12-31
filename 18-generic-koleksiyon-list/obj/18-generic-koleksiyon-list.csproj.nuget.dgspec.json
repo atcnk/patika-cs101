@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ataca\\Desktop\\Genel\\patika-cs101\\18-generic-koleksiyon-list\\18-generic-koleksiyon-list.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ataca\\Desktop\\Genel\\patika-cs101\\18-generic-koleksiyon-list\\18-generic-koleksiyon-list.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ataca\\Desktop\\Genel\\patika-cs101\\18-generic-koleksiyon-list\\18-generic-koleksiyon-list.csproj",
+        "projectName": "18-generic-koleksiyon-list",
+        "projectPath": "C:\\Users\\ataca\\Desktop\\Genel\\patika-cs101\\18-generic-koleksiyon-list\\18-generic-koleksiyon-list.csproj",
+        "packagesPath": "C:\\Users\\ataca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ataca\\Desktop\\Genel\\patika-cs101\\18-generic-koleksiyon-list\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ataca\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
