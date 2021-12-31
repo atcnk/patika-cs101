@@ -1,0 +1,15 @@
+C:\Users\ataca\Desktop\Genel\patika-cs101\17-datetime-math\bin\Debug\net6.0\17-datetime-math.exe
+C:\Users\ataca\Desktop\Genel\patika-cs101\17-datetime-math\bin\Debug\net6.0\17-datetime-math.deps.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\17-datetime-math\bin\Debug\net6.0\17-datetime-math.runtimeconfig.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\17-datetime-math\bin\Debug\net6.0\17-datetime-math.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\17-datetime-math\bin\Debug\net6.0\ref\17-datetime-math.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\17-datetime-math\bin\Debug\net6.0\17-datetime-math.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\17-datetime-math\obj\Debug\net6.0\17-datetime-math.csproj.AssemblyReference.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\17-datetime-math\obj\Debug\net6.0\17-datetime-math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ataca\Desktop\Genel\patika-cs101\17-datetime-math\obj\Debug\net6.0\17-datetime-math.AssemblyInfoInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\17-datetime-math\obj\Debug\net6.0\17-datetime-math.AssemblyInfo.cs
+C:\Users\ataca\Desktop\Genel\patika-cs101\17-datetime-math\obj\Debug\net6.0\17-datetime-math.csproj.CoreCompileInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\17-datetime-math\obj\Debug\net6.0\17-datetime-math.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\17-datetime-math\obj\Debug\net6.0\ref\17-datetime-math.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\17-datetime-math\obj\Debug\net6.0\17-datetime-math.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\17-datetime-math\obj\Debug\net6.0\17-datetime-math.genruntimeconfig.cache
