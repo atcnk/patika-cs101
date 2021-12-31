@@ -1,0 +1,15 @@
+C:\Users\ataca\Desktop\Genel\patika-cs101\19-arraylist\bin\Debug\net6.0\19-arraylist.exe
+C:\Users\ataca\Desktop\Genel\patika-cs101\19-arraylist\bin\Debug\net6.0\19-arraylist.deps.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\19-arraylist\bin\Debug\net6.0\19-arraylist.runtimeconfig.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\19-arraylist\bin\Debug\net6.0\19-arraylist.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\19-arraylist\bin\Debug\net6.0\ref\19-arraylist.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\19-arraylist\bin\Debug\net6.0\19-arraylist.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\19-arraylist\obj\Debug\net6.0\19-arraylist.csproj.AssemblyReference.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\19-arraylist\obj\Debug\net6.0\19-arraylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ataca\Desktop\Genel\patika-cs101\19-arraylist\obj\Debug\net6.0\19-arraylist.AssemblyInfoInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\19-arraylist\obj\Debug\net6.0\19-arraylist.AssemblyInfo.cs
+C:\Users\ataca\Desktop\Genel\patika-cs101\19-arraylist\obj\Debug\net6.0\19-arraylist.csproj.CoreCompileInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\19-arraylist\obj\Debug\net6.0\19-arraylist.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\19-arraylist\obj\Debug\net6.0\ref\19-arraylist.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\19-arraylist\obj\Debug\net6.0\19-arraylist.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\19-arraylist\obj\Debug\net6.0\19-arraylist.genruntimeconfig.cache
