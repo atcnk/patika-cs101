@@ -1,0 +1,15 @@
+C:\Users\ataca\Desktop\Genel\patika-cs101\16-string-metot\bin\Debug\net6.0\16-string-metot.exe
+C:\Users\ataca\Desktop\Genel\patika-cs101\16-string-metot\bin\Debug\net6.0\16-string-metot.deps.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\16-string-metot\bin\Debug\net6.0\16-string-metot.runtimeconfig.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\16-string-metot\bin\Debug\net6.0\16-string-metot.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\16-string-metot\bin\Debug\net6.0\ref\16-string-metot.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\16-string-metot\bin\Debug\net6.0\16-string-metot.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\16-string-metot\obj\Debug\net6.0\16-string-metot.csproj.AssemblyReference.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\16-string-metot\obj\Debug\net6.0\16-string-metot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ataca\Desktop\Genel\patika-cs101\16-string-metot\obj\Debug\net6.0\16-string-metot.AssemblyInfoInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\16-string-metot\obj\Debug\net6.0\16-string-metot.AssemblyInfo.cs
+C:\Users\ataca\Desktop\Genel\patika-cs101\16-string-metot\obj\Debug\net6.0\16-string-metot.csproj.CoreCompileInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\16-string-metot\obj\Debug\net6.0\16-string-metot.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\16-string-metot\obj\Debug\net6.0\ref\16-string-metot.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\16-string-metot\obj\Debug\net6.0\16-string-metot.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\16-string-metot\obj\Debug\net6.0\16-string-metot.genruntimeconfig.cache
