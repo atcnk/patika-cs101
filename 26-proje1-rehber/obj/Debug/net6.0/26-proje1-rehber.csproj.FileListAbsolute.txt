@@ -1,0 +1,15 @@
+C:\Users\ataca\Desktop\Genel\patika-cs101\26-proje1-rehber\bin\Debug\net6.0\26-proje1-rehber.exe
+C:\Users\ataca\Desktop\Genel\patika-cs101\26-proje1-rehber\bin\Debug\net6.0\26-proje1-rehber.deps.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\26-proje1-rehber\bin\Debug\net6.0\26-proje1-rehber.runtimeconfig.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\26-proje1-rehber\bin\Debug\net6.0\26-proje1-rehber.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\26-proje1-rehber\bin\Debug\net6.0\ref\26-proje1-rehber.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\26-proje1-rehber\bin\Debug\net6.0\26-proje1-rehber.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\26-proje1-rehber\obj\Debug\net6.0\26-proje1-rehber.csproj.AssemblyReference.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\26-proje1-rehber\obj\Debug\net6.0\26-proje1-rehber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ataca\Desktop\Genel\patika-cs101\26-proje1-rehber\obj\Debug\net6.0\26-proje1-rehber.AssemblyInfoInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\26-proje1-rehber\obj\Debug\net6.0\26-proje1-rehber.AssemblyInfo.cs
+C:\Users\ataca\Desktop\Genel\patika-cs101\26-proje1-rehber\obj\Debug\net6.0\26-proje1-rehber.csproj.CoreCompileInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\26-proje1-rehber\obj\Debug\net6.0\26-proje1-rehber.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\26-proje1-rehber\obj\Debug\net6.0\ref\26-proje1-rehber.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\26-proje1-rehber\obj\Debug\net6.0\26-proje1-rehber.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\26-proje1-rehber\obj\Debug\net6.0\26-proje1-rehber.genruntimeconfig.cache
