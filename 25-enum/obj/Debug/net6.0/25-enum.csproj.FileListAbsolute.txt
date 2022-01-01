@@ -1,0 +1,15 @@
+C:\Users\ataca\Desktop\Genel\patika-cs101\25-enum\bin\Debug\net6.0\25-enum.exe
+C:\Users\ataca\Desktop\Genel\patika-cs101\25-enum\bin\Debug\net6.0\25-enum.deps.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\25-enum\bin\Debug\net6.0\25-enum.runtimeconfig.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\25-enum\bin\Debug\net6.0\25-enum.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\25-enum\bin\Debug\net6.0\ref\25-enum.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\25-enum\bin\Debug\net6.0\25-enum.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\25-enum\obj\Debug\net6.0\25-enum.csproj.AssemblyReference.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\25-enum\obj\Debug\net6.0\25-enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ataca\Desktop\Genel\patika-cs101\25-enum\obj\Debug\net6.0\25-enum.AssemblyInfoInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\25-enum\obj\Debug\net6.0\25-enum.AssemblyInfo.cs
+C:\Users\ataca\Desktop\Genel\patika-cs101\25-enum\obj\Debug\net6.0\25-enum.csproj.CoreCompileInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\25-enum\obj\Debug\net6.0\25-enum.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\25-enum\obj\Debug\net6.0\ref\25-enum.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\25-enum\obj\Debug\net6.0\25-enum.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\25-enum\obj\Debug\net6.0\25-enum.genruntimeconfig.cache

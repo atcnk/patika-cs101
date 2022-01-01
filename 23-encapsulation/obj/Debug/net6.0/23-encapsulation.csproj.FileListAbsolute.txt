@@ -1,0 +1,15 @@
+C:\Users\ataca\Desktop\Genel\patika-cs101\23-encapsulation\bin\Debug\net6.0\23-encapsulation.exe
+C:\Users\ataca\Desktop\Genel\patika-cs101\23-encapsulation\bin\Debug\net6.0\23-encapsulation.deps.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\23-encapsulation\bin\Debug\net6.0\23-encapsulation.runtimeconfig.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\23-encapsulation\bin\Debug\net6.0\23-encapsulation.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\23-encapsulation\bin\Debug\net6.0\ref\23-encapsulation.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\23-encapsulation\bin\Debug\net6.0\23-encapsulation.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\23-encapsulation\obj\Debug\net6.0\23-encapsulation.csproj.AssemblyReference.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\23-encapsulation\obj\Debug\net6.0\23-encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ataca\Desktop\Genel\patika-cs101\23-encapsulation\obj\Debug\net6.0\23-encapsulation.AssemblyInfoInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\23-encapsulation\obj\Debug\net6.0\23-encapsulation.AssemblyInfo.cs
+C:\Users\ataca\Desktop\Genel\patika-cs101\23-encapsulation\obj\Debug\net6.0\23-encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\23-encapsulation\obj\Debug\net6.0\23-encapsulation.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\23-encapsulation\obj\Debug\net6.0\ref\23-encapsulation.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\23-encapsulation\obj\Debug\net6.0\23-encapsulation.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\23-encapsulation\obj\Debug\net6.0\23-encapsulation.genruntimeconfig.cache

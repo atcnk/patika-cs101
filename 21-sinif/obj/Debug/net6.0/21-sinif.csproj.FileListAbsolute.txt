@@ -1,0 +1,15 @@
+C:\Users\ataca\Desktop\Genel\patika-cs101\21-sinif\bin\Debug\net6.0\21-sinif.exe
+C:\Users\ataca\Desktop\Genel\patika-cs101\21-sinif\bin\Debug\net6.0\21-sinif.deps.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\21-sinif\bin\Debug\net6.0\21-sinif.runtimeconfig.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\21-sinif\bin\Debug\net6.0\21-sinif.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\21-sinif\bin\Debug\net6.0\ref\21-sinif.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\21-sinif\bin\Debug\net6.0\21-sinif.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\21-sinif\obj\Debug\net6.0\21-sinif.csproj.AssemblyReference.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\21-sinif\obj\Debug\net6.0\21-sinif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ataca\Desktop\Genel\patika-cs101\21-sinif\obj\Debug\net6.0\21-sinif.AssemblyInfoInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\21-sinif\obj\Debug\net6.0\21-sinif.AssemblyInfo.cs
+C:\Users\ataca\Desktop\Genel\patika-cs101\21-sinif\obj\Debug\net6.0\21-sinif.csproj.CoreCompileInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\21-sinif\obj\Debug\net6.0\21-sinif.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\21-sinif\obj\Debug\net6.0\ref\21-sinif.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\21-sinif\obj\Debug\net6.0\21-sinif.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\21-sinif\obj\Debug\net6.0\21-sinif.genruntimeconfig.cache

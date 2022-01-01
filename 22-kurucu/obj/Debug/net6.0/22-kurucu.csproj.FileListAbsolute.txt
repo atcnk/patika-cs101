@@ -1,0 +1,15 @@
+C:\Users\ataca\Desktop\Genel\patika-cs101\22-kurucu\bin\Debug\net6.0\22-kurucu.exe
+C:\Users\ataca\Desktop\Genel\patika-cs101\22-kurucu\bin\Debug\net6.0\22-kurucu.deps.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\22-kurucu\bin\Debug\net6.0\22-kurucu.runtimeconfig.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\22-kurucu\bin\Debug\net6.0\22-kurucu.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\22-kurucu\bin\Debug\net6.0\ref\22-kurucu.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\22-kurucu\bin\Debug\net6.0\22-kurucu.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\22-kurucu\obj\Debug\net6.0\22-kurucu.csproj.AssemblyReference.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\22-kurucu\obj\Debug\net6.0\22-kurucu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ataca\Desktop\Genel\patika-cs101\22-kurucu\obj\Debug\net6.0\22-kurucu.AssemblyInfoInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\22-kurucu\obj\Debug\net6.0\22-kurucu.AssemblyInfo.cs
+C:\Users\ataca\Desktop\Genel\patika-cs101\22-kurucu\obj\Debug\net6.0\22-kurucu.csproj.CoreCompileInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\22-kurucu\obj\Debug\net6.0\22-kurucu.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\22-kurucu\obj\Debug\net6.0\ref\22-kurucu.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\22-kurucu\obj\Debug\net6.0\22-kurucu.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\22-kurucu\obj\Debug\net6.0\22-kurucu.genruntimeconfig.cache
