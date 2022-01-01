@@ -1,0 +1,15 @@
+C:\Users\ataca\Desktop\Genel\patika-cs101\20-odev2\soru1\bin\Debug\net6.0\soru1.exe
+C:\Users\ataca\Desktop\Genel\patika-cs101\20-odev2\soru1\bin\Debug\net6.0\soru1.deps.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\20-odev2\soru1\bin\Debug\net6.0\soru1.runtimeconfig.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\20-odev2\soru1\bin\Debug\net6.0\soru1.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\20-odev2\soru1\bin\Debug\net6.0\ref\soru1.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\20-odev2\soru1\bin\Debug\net6.0\soru1.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\20-odev2\soru1\obj\Debug\net6.0\soru1.csproj.AssemblyReference.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\20-odev2\soru1\obj\Debug\net6.0\soru1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ataca\Desktop\Genel\patika-cs101\20-odev2\soru1\obj\Debug\net6.0\soru1.AssemblyInfoInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\20-odev2\soru1\obj\Debug\net6.0\soru1.AssemblyInfo.cs
+C:\Users\ataca\Desktop\Genel\patika-cs101\20-odev2\soru1\obj\Debug\net6.0\soru1.csproj.CoreCompileInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\20-odev2\soru1\obj\Debug\net6.0\soru1.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\20-odev2\soru1\obj\Debug\net6.0\ref\soru1.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\20-odev2\soru1\obj\Debug\net6.0\soru1.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\20-odev2\soru1\obj\Debug\net6.0\soru1.genruntimeconfig.cache
