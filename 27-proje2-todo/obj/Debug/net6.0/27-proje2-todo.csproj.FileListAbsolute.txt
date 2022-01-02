@@ -1,0 +1,15 @@
+C:\Users\ataca\Desktop\Genel\patika-cs101\27-proje2-todo\bin\Debug\net6.0\27-proje2-todo.exe
+C:\Users\ataca\Desktop\Genel\patika-cs101\27-proje2-todo\bin\Debug\net6.0\27-proje2-todo.deps.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\27-proje2-todo\bin\Debug\net6.0\27-proje2-todo.runtimeconfig.json
+C:\Users\ataca\Desktop\Genel\patika-cs101\27-proje2-todo\bin\Debug\net6.0\27-proje2-todo.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\27-proje2-todo\bin\Debug\net6.0\ref\27-proje2-todo.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\27-proje2-todo\bin\Debug\net6.0\27-proje2-todo.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\27-proje2-todo\obj\Debug\net6.0\27-proje2-todo.csproj.AssemblyReference.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\27-proje2-todo\obj\Debug\net6.0\27-proje2-todo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ataca\Desktop\Genel\patika-cs101\27-proje2-todo\obj\Debug\net6.0\27-proje2-todo.AssemblyInfoInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\27-proje2-todo\obj\Debug\net6.0\27-proje2-todo.AssemblyInfo.cs
+C:\Users\ataca\Desktop\Genel\patika-cs101\27-proje2-todo\obj\Debug\net6.0\27-proje2-todo.csproj.CoreCompileInputs.cache
+C:\Users\ataca\Desktop\Genel\patika-cs101\27-proje2-todo\obj\Debug\net6.0\27-proje2-todo.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\27-proje2-todo\obj\Debug\net6.0\ref\27-proje2-todo.dll
+C:\Users\ataca\Desktop\Genel\patika-cs101\27-proje2-todo\obj\Debug\net6.0\27-proje2-todo.pdb
+C:\Users\ataca\Desktop\Genel\patika-cs101\27-proje2-todo\obj\Debug\net6.0\27-proje2-todo.genruntimeconfig.cache
